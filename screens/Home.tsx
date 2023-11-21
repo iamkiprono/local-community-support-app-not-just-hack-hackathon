@@ -8,8 +8,8 @@ const Home = () => {
     <Wrapper>
       <View className="justify-center flex-1">
         <View>
-          <Text className="text-center mt-20 font-bold text-3xl">
-            What do you want to do?
+          <Text className="text-center mt-20 font-bold text-3xl text-[#777673]">
+      What would you like to do?
           </Text>
         </View>
         <Button color="#b77e1d" content="Buy Milk" />
